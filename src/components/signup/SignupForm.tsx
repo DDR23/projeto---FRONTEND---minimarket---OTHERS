@@ -81,8 +81,7 @@ export default function SignupForm() {
 
   return (
     <main className="flex h-screen w-screen flex-col items-center justify-center">
-      <Image src="/cabana-arbequina-light.png" width={100} height={100} alt="cabana arbeqina logo" />
-      <span className="text-sm text-muted-foreground md:inline mt-1">Minimarket</span>
+      <span className="text-muted-foreground md:inline mt-1">Mini Market</span>
       <Card style={{
         width: '30rem',
         maxWidth: '98vw',
