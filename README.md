@@ -23,3 +23,4 @@ Projeto hospedado em: https://projeto-minimarket-frontend.vercel.app/
 ![App Screenshot](/public/picture_06.png)
 ![App Screenshot](/public/picture_07.png)
 ![App Screenshot](/public/picture_08.png)
+![App Screenshot](/public/picture_09.png)
