@@ -1,7 +1,7 @@
-# projeto---FRONTEND---minimarket---OTHERS
+# sistema-de-gestao-de-vendas-para-mercado-user-frontend
 
 ## Sobre o projeto
-Esse é um projeto divido em 3 partes, trata-se de um sistema de gerenciamento de venda para minimarkets, essa parte é o FRONTEND do sistema, parte feita para uso dos clientes.
+Esse é um projeto divido em 3 partes, trata-se de um sistema de gerenciamento de venda para mercados locais, essa parte é o FRONTEND dedicado para o cliente.
 
 Projeto hospedado em: https://projeto-minimarket-frontend.vercel.app/
 
