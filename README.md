@@ -5,7 +5,7 @@ Esse é um projeto divido em 3 partes, trata-se de um sistema de gerenciamento d
 
 Projeto hospedado em: https://projeto-minimarket-frontend.vercel.app/
 
-###Credenciais de login para teste:
+### Credenciais de login para teste:
 ```
 new-user-2024@gmail.com
 iyB5GfYgd9fWd_-
